@@ -1,0 +1,7 @@
+# Tests path finding for two hops
+
+# Create graph
+LoadGraph friends champions.tsv
+
+# find path two hops
+FindPath friends Kevin Candice

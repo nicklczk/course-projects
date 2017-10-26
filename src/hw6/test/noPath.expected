@@ -1,0 +1,8 @@
+# Tests path finding when there is no path
+
+# Create graph
+loaded graph friends
+
+# find path one hop
+path from Vincent to Ingrid:
+no path found

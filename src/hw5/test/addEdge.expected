@@ -1,0 +1,11 @@
+# Creates graph
+created graph graph0
+
+# Adds a node to a graph
+added node node0 to graph0 
+
+# Adds another node to a graph
+added node node1 to graph0
+
+# Add edge from parent node to child node in graph
+added edge zeroToOne from node0 to node1 in graph0

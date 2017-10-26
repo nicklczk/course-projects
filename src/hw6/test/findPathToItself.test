@@ -1,0 +1,7 @@
+# Tests search algorithm from a node to itself
+
+# Create graph
+LoadGraph friends champions.tsv
+
+# find path to itself
+FindPath friends Vincent Vincent

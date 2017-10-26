@@ -1,0 +1,7 @@
+# Tests path finding for three hops
+
+# Create graph
+LoadGraph friends champions.tsv
+
+# find path three hops
+FindPath friends Kevin Kyle

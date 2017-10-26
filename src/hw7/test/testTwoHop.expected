@@ -1,0 +1,6 @@
+loaded graph champions2
+
+path from A to D:
+A to C with weight 0.250
+C to D with weight 0.333
+total cost: 0.583

@@ -1,0 +1,11 @@
+# Creates graph
+CreateGraph graph0
+
+# Adds a node to a graph
+AddNode graph0 node0
+
+# Adds another node to a graph
+AddNode graph0 node1
+
+# Lists the nodes in graph
+ListNodes graph0

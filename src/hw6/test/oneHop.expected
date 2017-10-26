@@ -1,0 +1,9 @@
+# Tests path finding for one hop
+
+# Create graph
+loaded graph friends
+
+# find path one hop
+path from Vincent to Kyle:
+Vincent to Candice via Lander
+Candice to Kyle via McMahon

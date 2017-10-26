@@ -1,0 +1,3 @@
+LoadGraph champions2 champions2.tsv
+
+FindPath champions2 A D

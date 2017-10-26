@@ -1,0 +1,10 @@
+# Tests path finding for three hops
+
+# Create graph
+loaded graph friends
+
+# find path three hops
+path from Kevin to Kyle:
+Kevin to Eya via Apartments
+Eya to Candice via Lander
+Candice to Kyle via McMahon

@@ -1,0 +1,8 @@
+# Creates graph
+created graph graph0
+
+# Adds a node to a graph
+added node node0 to graph0 
+
+# Adds another node to a graph
+added node node1 to graph0 

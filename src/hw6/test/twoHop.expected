@@ -1,0 +1,9 @@
+# Tests path finding for two hops
+
+# Create graph
+loaded graph friends
+
+# find path two hops
+path from Kevin to Candice:
+Kevin to Eya via Apartments
+Eya to Candice via Lander

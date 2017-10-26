@@ -1,0 +1,7 @@
+# Tests path finding when there is no path
+
+# Create graph
+LoadGraph friends champions.tsv
+
+# find path one hop
+FindPath friends Vincent Ingrid

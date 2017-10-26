@@ -1,0 +1,7 @@
+# Tests search algorithm from a node to itself
+
+# Create graph
+loaded graph friends
+
+# find path to itself
+path from Vincent to Vincent:
